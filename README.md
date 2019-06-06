@@ -47,3 +47,6 @@ docker   stop  test_001
 ```
 
 For regression testing, the above two `docker exec` commands should each have a exit status of 0. Additionally, in the [README_regtest.md](README_regtest.md) file, there is explicit information for each test that may be conducted for the regression suite.
+
+
+Jun 6 test
